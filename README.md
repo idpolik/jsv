@@ -13,13 +13,14 @@ py jsv.py domains.csv domains.json Domain
 ```
 
 CSV:
-```csv
-"Domain","Available","Premium","Price"
-"google.com","available","","$28.98"
-"example.com","available","","$14.48"
-"lua.sucks","available","","$12.98"
-"youtube.com","available","","$17.48"
-```
+
+Domain       |  Available  |  Premium  |  Price
+-------------|-------------|-----------|--------
+google.com   |  available  |           |  $28.98
+example.com  |  available  |           |  $14.48
+lua.sucks    |  available  |           |  $12.98
+youtube.com  |  available  |           |  $17.48
+
 Json Output:
 ```json
 {
