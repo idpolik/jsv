@@ -1,7 +1,6 @@
-# jsv
-Simple csv->json converter in Python
+JSV, a simple csv->json converter in Python
 
-#Usage:
+# Usage:
 
 ```
 py jsv.py csvdata.csv desiredname.json primaryKey
